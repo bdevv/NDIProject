@@ -1,0 +1,40 @@
+C:\Users\Acillles\source\repos\NDI2Tracker KeyGenerator\NDI2Tracker KeyGenerator\bin\Debug\netcoreapp3.1\NDI2Tracker KeyGenerator.exe
+C:\Users\Acillles\source\repos\NDI2Tracker KeyGenerator\NDI2Tracker KeyGenerator\bin\Debug\netcoreapp3.1\NDI2Tracker KeyGenerator.deps.json
+C:\Users\Acillles\source\repos\NDI2Tracker KeyGenerator\NDI2Tracker KeyGenerator\bin\Debug\netcoreapp3.1\NDI2Tracker KeyGenerator.runtimeconfig.json
+C:\Users\Acillles\source\repos\NDI2Tracker KeyGenerator\NDI2Tracker KeyGenerator\bin\Debug\netcoreapp3.1\NDI2Tracker KeyGenerator.runtimeconfig.dev.json
+C:\Users\Acillles\source\repos\NDI2Tracker KeyGenerator\NDI2Tracker KeyGenerator\bin\Debug\netcoreapp3.1\NDI2Tracker KeyGenerator.dll
+C:\Users\Acillles\source\repos\NDI2Tracker KeyGenerator\NDI2Tracker KeyGenerator\bin\Debug\netcoreapp3.1\NDI2Tracker KeyGenerator.pdb
+C:\Users\Acillles\source\repos\NDI2Tracker KeyGenerator\NDI2Tracker KeyGenerator\bin\Debug\netcoreapp3.1\DeviceId.dll
+C:\Users\Acillles\source\repos\NDI2Tracker KeyGenerator\NDI2Tracker KeyGenerator\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Acillles\source\repos\NDI2Tracker KeyGenerator\NDI2Tracker KeyGenerator\obj\Debug\netcoreapp3.1\NDI2Tracker KeyGenerator.csproj.AssemblyReference.cache
+C:\Users\Acillles\source\repos\NDI2Tracker KeyGenerator\NDI2Tracker KeyGenerator\obj\Debug\netcoreapp3.1\NDI2Tracker.KeyGenerator.resources
+C:\Users\Acillles\source\repos\NDI2Tracker KeyGenerator\NDI2Tracker KeyGenerator\obj\Debug\netcoreapp3.1\NDI2Tracker KeyGenerator.csproj.GenerateResource.cache
+C:\Users\Acillles\source\repos\NDI2Tracker KeyGenerator\NDI2Tracker KeyGenerator\obj\Debug\netcoreapp3.1\NDI2Tracker KeyGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acillles\source\repos\NDI2Tracker KeyGenerator\NDI2Tracker KeyGenerator\obj\Debug\netcoreapp3.1\NDI2Tracker KeyGenerator.AssemblyInfoInputs.cache
+C:\Users\Acillles\source\repos\NDI2Tracker KeyGenerator\NDI2Tracker KeyGenerator\obj\Debug\netcoreapp3.1\NDI2Tracker KeyGenerator.AssemblyInfo.cs
+C:\Users\Acillles\source\repos\NDI2Tracker KeyGenerator\NDI2Tracker KeyGenerator\obj\Debug\netcoreapp3.1\NDI2Tracker KeyGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Acillles\source\repos\NDI2Tracker KeyGenerator\NDI2Tracker KeyGenerator\obj\Debug\netcoreapp3.1\NDI2Tracker KeyGenerator.csproj.CopyComplete
+C:\Users\Acillles\source\repos\NDI2Tracker KeyGenerator\NDI2Tracker KeyGenerator\obj\Debug\netcoreapp3.1\NDI2Tracker KeyGenerator.dll
+C:\Users\Acillles\source\repos\NDI2Tracker KeyGenerator\NDI2Tracker KeyGenerator\obj\Debug\netcoreapp3.1\NDI2Tracker KeyGenerator.pdb
+C:\Users\Acillles\source\repos\NDI2Tracker KeyGenerator\NDI2Tracker KeyGenerator\obj\Debug\netcoreapp3.1\NDI2Tracker KeyGenerator.genruntimeconfig.cache
+C:\Users\Acillles\source\repos\NDI2Tracker KeyGenerator\NDI2Tracker KeyGenerator\obj\Debug\netcoreapp3.1\NDI2Tracker_KeyGenerator.Properties.Resources.resources
+F:\TaskList\NDI\NDI2Tracker KeyGenerator\NDI2Tracker KeyGenerator\bin\Debug\netcoreapp3.1\NDI2Tracker KeyGenerator.exe
+F:\TaskList\NDI\NDI2Tracker KeyGenerator\NDI2Tracker KeyGenerator\bin\Debug\netcoreapp3.1\NDI2Tracker KeyGenerator.deps.json
+F:\TaskList\NDI\NDI2Tracker KeyGenerator\NDI2Tracker KeyGenerator\bin\Debug\netcoreapp3.1\NDI2Tracker KeyGenerator.runtimeconfig.json
+F:\TaskList\NDI\NDI2Tracker KeyGenerator\NDI2Tracker KeyGenerator\bin\Debug\netcoreapp3.1\NDI2Tracker KeyGenerator.runtimeconfig.dev.json
+F:\TaskList\NDI\NDI2Tracker KeyGenerator\NDI2Tracker KeyGenerator\bin\Debug\netcoreapp3.1\NDI2Tracker KeyGenerator.dll
+F:\TaskList\NDI\NDI2Tracker KeyGenerator\NDI2Tracker KeyGenerator\bin\Debug\netcoreapp3.1\NDI2Tracker KeyGenerator.pdb
+F:\TaskList\NDI\NDI2Tracker KeyGenerator\NDI2Tracker KeyGenerator\bin\Debug\netcoreapp3.1\DeviceId.dll
+F:\TaskList\NDI\NDI2Tracker KeyGenerator\NDI2Tracker KeyGenerator\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+F:\TaskList\NDI\NDI2Tracker KeyGenerator\NDI2Tracker KeyGenerator\obj\Debug\netcoreapp3.1\NDI2Tracker KeyGenerator.csproj.AssemblyReference.cache
+F:\TaskList\NDI\NDI2Tracker KeyGenerator\NDI2Tracker KeyGenerator\obj\Debug\netcoreapp3.1\NDI2Tracker.KeyGenerator.resources
+F:\TaskList\NDI\NDI2Tracker KeyGenerator\NDI2Tracker KeyGenerator\obj\Debug\netcoreapp3.1\NDI2Tracker_KeyGenerator.Properties.Resources.resources
+F:\TaskList\NDI\NDI2Tracker KeyGenerator\NDI2Tracker KeyGenerator\obj\Debug\netcoreapp3.1\NDI2Tracker KeyGenerator.csproj.GenerateResource.cache
+F:\TaskList\NDI\NDI2Tracker KeyGenerator\NDI2Tracker KeyGenerator\obj\Debug\netcoreapp3.1\NDI2Tracker KeyGenerator.GeneratedMSBuildEditorConfig.editorconfig
+F:\TaskList\NDI\NDI2Tracker KeyGenerator\NDI2Tracker KeyGenerator\obj\Debug\netcoreapp3.1\NDI2Tracker KeyGenerator.AssemblyInfoInputs.cache
+F:\TaskList\NDI\NDI2Tracker KeyGenerator\NDI2Tracker KeyGenerator\obj\Debug\netcoreapp3.1\NDI2Tracker KeyGenerator.AssemblyInfo.cs
+F:\TaskList\NDI\NDI2Tracker KeyGenerator\NDI2Tracker KeyGenerator\obj\Debug\netcoreapp3.1\NDI2Tracker KeyGenerator.csproj.CoreCompileInputs.cache
+F:\TaskList\NDI\NDI2Tracker KeyGenerator\NDI2Tracker KeyGenerator\obj\Debug\netcoreapp3.1\NDI2Tracker KeyGenerator.csproj.CopyComplete
+F:\TaskList\NDI\NDI2Tracker KeyGenerator\NDI2Tracker KeyGenerator\obj\Debug\netcoreapp3.1\NDI2Tracker KeyGenerator.dll
+F:\TaskList\NDI\NDI2Tracker KeyGenerator\NDI2Tracker KeyGenerator\obj\Debug\netcoreapp3.1\NDI2Tracker KeyGenerator.pdb
+F:\TaskList\NDI\NDI2Tracker KeyGenerator\NDI2Tracker KeyGenerator\obj\Debug\netcoreapp3.1\NDI2Tracker KeyGenerator.genruntimeconfig.cache

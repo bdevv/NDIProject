@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Q6H3L8RPiV45X1yMLuR+jfoVvjgC6OTHtEDOehcBUR3PEWS33cHPJdThUndW2Oy6iTdU6OI19gPz6xl8raDeOQ==",
+  "success": true,
+  "projectFilePath": "F:\\TaskList\\NDI\\NDI2Tracker KeyGenerator\\NDI2Tracker KeyGenerator\\NDI2Tracker KeyGenerator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acillles\\.nuget\\packages\\deviceid\\6.3.0\\deviceid.6.3.0.nupkg.sha512",
+    "C:\\Users\\Acillles\\.nuget\\packages\\microsoft.dotnet.platformabstractions\\3.1.6\\microsoft.dotnet.platformabstractions.3.1.6.nupkg.sha512",
+    "C:\\Users\\Acillles\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Acillles\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Acillles\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Acillles\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
